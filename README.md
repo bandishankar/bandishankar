@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-<marquee behavior="scroll" direction="left"> WELCOME </marquee>
+WELCOME  :pray:
 
 
 
