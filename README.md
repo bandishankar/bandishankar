@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
 
 
 
@@ -13,7 +13,6 @@
 
 
 
-<img src="https://media.giphy.com/media/d5k2sqNLfCaR8ATBI1/giphy.gif" width="300">
 
 
 <!--
