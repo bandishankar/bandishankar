@@ -12,9 +12,6 @@ WELCOME  :pray:
 [![dev.to badge](https://img.shields.io/badge/linkedin-bandishankar-red)](https://www.linkedin.com/in/bandishankar/)
 
 
-<span style="color:blue">some *blue* text</span>.
-
-
 <!--
 **bandishankar/bandishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
