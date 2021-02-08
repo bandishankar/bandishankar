@@ -12,6 +12,10 @@ WELCOME  :pray:
 [![dev.to badge](https://img.shields.io/badge/linkedin-bandishankar-red)](https://www.linkedin.com/in/bandishankar/)
 
 
+#### My GitHub profile trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=bandishankar)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <a href="https://github.com/neerazz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandishankar&hide=css,html&layout=compact" />
 </a>
