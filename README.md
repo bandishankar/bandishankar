@@ -2,7 +2,6 @@
 WELCOME  :pray:
 
 
-
 [![dev.to badge](https://img.shields.io/badge/linkedin-bandishankar-red)](https://www.linkedin.com/in/bandishankar/)  
 
 
