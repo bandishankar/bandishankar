@@ -1,19 +1,13 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
-
-
-
-### Hi there 👋
-
 
 WELCOME  :pray:
 
 
 
-[![dev.to badge](https://img.shields.io/badge/linkedin-bandishankar-red)](https://www.linkedin.com/in/bandishankar/)
+[![dev.to badge](https://img.shields.io/badge/linkedin-bandishankar-red)](https://www.linkedin.com/in/bandishankar/)  
 
 
 #### My GitHub profile trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=bandishankar&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bandishankar&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
 
 
 <a href="https://github.com/neerazz">
