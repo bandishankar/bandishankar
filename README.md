@@ -13,7 +13,7 @@ WELCOME  :pray:
 
 
 #### My GitHub profile trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=bandishankar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bandishankar&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://github.com/neerazz">
